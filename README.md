@@ -10,6 +10,10 @@ The project exposes a `/chat` API that routes user queries through a small team 
 - **Converse_Agent** – handles general conversation and Q&A.
 - **Validator_Agent** – evaluates the final answer for quality and correctness.
 
+
+## Architecture Diagram
+![Architecture Diagram](architecture_kvell.png)
+
 A simple Streamlit UI is included to chat with the agents and to visualize each step in the workflow.
 
 ## Tech stack
